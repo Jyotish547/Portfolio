@@ -16,6 +16,7 @@ As a designer, I always wanted to design and develop my own portfolio, and altho
 3. Anyone interested in design and development services
 
 **Wireframes link:**
+
 https://www.figma.com/file/tMWrAzDRMl7XoCFULbEsNS/Portfolio-Wireframes?type=design&node-id=0%3A1&mode=design&t=wGDACvF0El6SYPhs-1
 
 (I created two low-fidelity wireframes of Home and Work Webpages; the other navigation options will scroll down on the main page itself.)
