@@ -45,17 +45,17 @@ Developing a personal portfolio that amalgamates my skills as a UX Designer, Fro
 
 1. **Prototyping/proof of concept:**
 
-  1. Draft the basic layout and structure
-  2. Create low-fidelity mockups for all pages
-  3. Identify key interactive elements
+    a. Draft the basic layout and structure
+    b. Create low-fidelity mockups for all pages
+    c. Identify key interactive elements
 
 2. **MVP (Minimum Viable Product):**
 
-  1. Develop a functional site with basic interactivity
-  2. Include at least 3 showcased projects
-  3. Implement primary navigation and contact information along with a working form to be able to reach out for collaborations, etc.
+    a. Develop a functional site with basic interactivity
+    b. Include at least 3 showcased projects
+    c. Implement primary navigation and contact information along with a working form to be able to reach out for collaborations, etc.
 
 3. **Stretch Goals:**
 
-  1. Using a CMS for efficiently adding my portfolio work
-  2. Adding a Client testimonials and feedback (Will request a few testimonials from my clients I worked with before).
+    a. Using a CMS for efficiently adding my portfolio work
+    b. Adding a Client testimonials and feedback (Will request a few testimonials from my clients I worked with before).
