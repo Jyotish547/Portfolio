@@ -1,5 +1,5 @@
 **Project Description:**
-Develop a personal portfolio that amalgamates my skills as a UX Designer, Front-End Developer, and Graphic Designer. This digital space will provide an overview of my works, capabilities, and the range of design and development projects I have worked on.
+Developing a personal portfolio that amalgamates my skills as a UX Designer, Front-End Developer, and Graphic Designer. This digital space will provide an overview of my works, capabilities, and the range of design and development projects I have worked on.
 
 1. **Purpose of the Website:**
 
