@@ -3,11 +3,11 @@ Develop a personal portfolio that amalgamates my skills as a UX Designer, Front-
 
 1. **Purpose of the Website:**
 
-The primary purpose of this website is to showcase my skills, experiences, and projects, serving as a digital resume and platform for potential employers or clients to understand my work and reach out for collaborations or opportunities.
+  The primary purpose of this website is to showcase my skills, experiences, and projects, serving as a digital resume and platform for potential employers or clients to understand my work and reach out for collaborations or opportunities.
 
 2. **Inspiration for the Project:**
 
-As a designer, I always wanted to design and develop my own portfolio, and although I had the design skills, I lacked front-end knowledge till now. This project will be quite beneficial for me to apply for jobs and also having a place to keep all my work together for the users to view.
+  As a designer, I always wanted to design and develop my own portfolio, and although I had the design skills, I lacked front-end knowledge till now. This project will be quite beneficial for me to apply for jobs and also having a place to keep all my work together for the users to view.
 
 3. **Intended Audience:**
 
@@ -43,19 +43,19 @@ As a designer, I always wanted to design and develop my own portfolio, and altho
 
 **Goals for the Project:**
 
-**Prototyping/proof of concept:**
+1. **Prototyping/proof of concept:**
 
-1. Draft the basic layout and structure
-2. Create low-fidelity mockups for all pages
-3. Identify key interactive elements
+  1. Draft the basic layout and structure
+  2. Create low-fidelity mockups for all pages
+  3. Identify key interactive elements
 
-**MVP (Minimum Viable Product):**
+2. **MVP (Minimum Viable Product):**
 
-1. Develop a functional site with basic interactivity
-2. Include at least 3 showcased projects
-3. Implement primary navigation and contact information along with a working form to be able to reach out for collaborations, etc.
+  1. Develop a functional site with basic interactivity
+  2. Include at least 3 showcased projects
+  3. Implement primary navigation and contact information along with a working form to be able to reach out for collaborations, etc.
 
-**Stretch Goals:**
+3. **Stretch Goals:**
 
-1. Using a CMS for efficiently adding my portfolio work
-2. Adding a Client testimonials and feedback (Will request a few testimonials from my clients I worked with before)
+  1. Using a CMS for efficiently adding my portfolio work
+  2. Adding a Client testimonials and feedback (Will request a few testimonials from my clients I worked with before).
