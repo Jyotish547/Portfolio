@@ -41,21 +41,20 @@ Developing a personal portfolio that amalgamates my skills as a UX Designer, Fro
 3. Testing on various devices and screen resolutions to ensure consistent display and interaction.
 4. Incorporating media queries to adjust content based on device capabilities (in both css and js).
 
-**Goals for the Project:**
 
-1. **Prototyping/proof of concept:**
+**Prototyping/proof of concept:**
 
-    a. Draft the basic layout and structure
-    b. Create low-fidelity mockups for all pages
-    c. Identify key interactive elements
+  a. Draft the basic layout and structure
+  b. Create low-fidelity mockups for all pages
+  c. Identify key interactive elements
 
-2. **MVP (Minimum Viable Product):**
+**MVP (Minimum Viable Product):**
 
-    a. Develop a functional site with basic interactivity
-    b. Include at least 3 showcased projects
-    c. Implement primary navigation and contact information along with a working form to be able to reach out for collaborations, etc.
+  a. Develop a functional site with basic interactivity
+  b. Include at least 3 showcased projects
+  c. Implement primary navigation and contact information along with a working form to be able to reach out for collaborations, etc.
 
-3. **Stretch Goals:**
+**Stretch Goals:**
 
-    a. Using a CMS for efficiently adding my portfolio work
-    b. Adding a Client testimonials and feedback (Will request a few testimonials from my clients I worked with before).
+  a. Using a CMS for efficiently adding my portfolio work
+  b. Adding a Client testimonials and feedback (Will request a few testimonials from my clients I worked with before).
