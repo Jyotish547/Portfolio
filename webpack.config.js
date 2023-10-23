@@ -7,8 +7,8 @@ module.exports = {
     entry: './src/index.ts',
     devtool: 'inline-source-map',
     output: {
-        path: path.resolve(__dirname, './dist'),
-        filename: './bundle.ts'
+        path: path.resolve(__dirname, 'dist'),
+        filename: 'bundle.js'
     },
     plugins: [
         new HtmlWebpackPlugin({
@@ -19,7 +19,15 @@ module.exports = {
         rules: [
             {
                 test: /\.css$/i,
-                use: ['style-loader', 'css-loader'],
+                use: ['style-loader',
+                        {
+                            loader: 'css-loader',
+                            options: {
+                            modules: true
+                            }
+                        },
+                        'css-loader'
+                    ],
             },
             {
                 test: /\.(png|svg|jpg|jpeg|gif)$/i,
@@ -32,7 +40,7 @@ module.exports = {
             {
                 test: /\.tsx?$/,
                 use: 'ts-loader',
-                exclude: /node_modules/,
+
             }
         ],
     },

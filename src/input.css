@@ -4,5 +4,9 @@
 
 html {
     margin: 0;
-    padding: 0
+    padding: 0;
+}
+
+#rem {
+    background-color: red;
 }

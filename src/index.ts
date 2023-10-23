@@ -1,1 +1,1 @@
-import css from "input.css";
+import css from './dist/output.css';
